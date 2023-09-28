@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695830104 source:c:\users\joão ruffino\documents\exercícios c\aula 9\atividade 3\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1695828024 source:c:\users\joão ruffino\documents\exercícios c\aula 9\atividade 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1695830104 c:\users\joão ruffino\documents\exercícios c\aula 9\atividade 3\biblioteca.h
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1695823169 source:c:\users\joão ruffino\documents\exercícios c\aula 9\atividade 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"PTcart.h"
+
+1695822915 c:\users\joão ruffino\documents\exercícios c\aula 9\atividade 2\ptcart.h
+
+1695822960 source:c:\users\joão ruffino\documents\exercícios c\aula 9\atividade 2\ptcart.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"PTcart.h"
+

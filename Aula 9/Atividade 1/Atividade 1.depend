@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695821020 source:c:\users\joão ruffino\documents\exercícios c\aula 9\atividade 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"my_lib.h"
+
+1695821020 c:\users\joão ruffino\documents\exercícios c\aula 9\atividade 1\my_lib.h
+
+1695821020 source:c:\users\joão ruffino\documents\exercícios c\aula 9\atividade 1\my_lib.c
+	<stdio.h>
+	<stdlib.h>
+	"my_lib.h"
+
