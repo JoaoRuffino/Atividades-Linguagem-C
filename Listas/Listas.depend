@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1699456874 source:c:\users\joão ruffino\documents\exercícios c\lista 2\listas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaSequencial.h"
+
+1699456009 c:\users\joão ruffino\documents\exercícios c\lista 2\listas\listasequencial.h
+
+1699456058 source:c:\users\joão ruffino\documents\exercícios c\lista 2\listas\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"listaSequencial.h"
+
