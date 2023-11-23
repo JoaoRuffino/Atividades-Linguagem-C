@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1700700151 source:c:\users\aluno\desktop\teste\pilha-dinamica\pilhad.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhaD.h"
+
+1700700207 c:\users\aluno\desktop\teste\pilha-dinamica\pilhad.h
+
+1700700207 source:c:\users\aluno\desktop\teste\pilha-dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhaD.h"
+
