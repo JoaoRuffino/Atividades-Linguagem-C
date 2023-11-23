@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1700698604 source:c:\users\aluno\desktop\teste\fila-dinamica\filad.c
+	<stdio.h>
+	<stdlib.h>
+	"filaD.h"
+
+1700698592 c:\users\aluno\desktop\teste\fila-dinamica\filad.h
+
+1700698587 source:c:\users\aluno\desktop\teste\fila-dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"filaD.h"
+
